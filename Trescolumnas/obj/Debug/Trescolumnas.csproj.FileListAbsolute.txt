@@ -1,0 +1,6 @@
+C:\Users\alex_\source\repos\mayor\Trescolumnas\bin\Debug\Trescolumnas.exe.config
+C:\Users\alex_\source\repos\mayor\Trescolumnas\bin\Debug\Trescolumnas.exe
+C:\Users\alex_\source\repos\mayor\Trescolumnas\bin\Debug\Trescolumnas.pdb
+C:\Users\alex_\source\repos\mayor\Trescolumnas\obj\Debug\Trescolumnas.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\mayor\Trescolumnas\obj\Debug\Trescolumnas.exe
+C:\Users\alex_\source\repos\mayor\Trescolumnas\obj\Debug\Trescolumnas.pdb
