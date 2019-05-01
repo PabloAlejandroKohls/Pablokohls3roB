@@ -1,0 +1,7 @@
+C:\Users\alex_\source\repos\mayor\Proyecto10MENU\bin\Debug\Proyecto10MENU.exe.config
+C:\Users\alex_\source\repos\mayor\Proyecto10MENU\bin\Debug\Proyecto10MENU.exe
+C:\Users\alex_\source\repos\mayor\Proyecto10MENU\bin\Debug\Proyecto10MENU.pdb
+C:\Users\alex_\source\repos\mayor\Proyecto10MENU\obj\Debug\Proyecto10MENU.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\mayor\Proyecto10MENU\obj\Debug\Proyecto10MENU.exe
+C:\Users\alex_\source\repos\mayor\Proyecto10MENU\obj\Debug\Proyecto10MENU.pdb
+C:\Users\alex_\source\repos\mayor\Proyecto10MENU\obj\Debug\Proyecto10MENU.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\alex_\source\repos\mayor\mayor\bin\Debug\mayor.exe.config
+C:\Users\alex_\source\repos\mayor\mayor\bin\Debug\mayor.exe
+C:\Users\alex_\source\repos\mayor\mayor\bin\Debug\mayor.pdb
+C:\Users\alex_\source\repos\mayor\mayor\obj\Debug\mayorNumero.csprojAssemblyReference.cache
+C:\Users\alex_\source\repos\mayor\mayor\obj\Debug\mayorNumero.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\mayor\mayor\obj\Debug\mayor.exe
+C:\Users\alex_\source\repos\mayor\mayor\obj\Debug\mayor.pdb

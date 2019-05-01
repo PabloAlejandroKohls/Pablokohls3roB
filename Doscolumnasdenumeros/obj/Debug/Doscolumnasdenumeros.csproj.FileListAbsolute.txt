@@ -1,0 +1,7 @@
+C:\Users\alex_\source\repos\mayor\Doscolumnasdenumeros\bin\Debug\Doscolumnasdenumeros.exe.config
+C:\Users\alex_\source\repos\mayor\Doscolumnasdenumeros\bin\Debug\Doscolumnasdenumeros.exe
+C:\Users\alex_\source\repos\mayor\Doscolumnasdenumeros\bin\Debug\Doscolumnasdenumeros.pdb
+C:\Users\alex_\source\repos\mayor\Doscolumnasdenumeros\obj\Debug\Doscolumnasdenumeros.csprojAssemblyReference.cache
+C:\Users\alex_\source\repos\mayor\Doscolumnasdenumeros\obj\Debug\Doscolumnasdenumeros.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\mayor\Doscolumnasdenumeros\obj\Debug\Doscolumnasdenumeros.exe
+C:\Users\alex_\source\repos\mayor\Doscolumnasdenumeros\obj\Debug\Doscolumnasdenumeros.pdb

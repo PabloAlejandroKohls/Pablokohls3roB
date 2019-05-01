@@ -1,0 +1,6 @@
+C:\Users\alex_\source\repos\mayor\AsteriscosPablo\bin\Debug\AsteriscosPablo.exe.config
+C:\Users\alex_\source\repos\mayor\AsteriscosPablo\bin\Debug\AsteriscosPablo.exe
+C:\Users\alex_\source\repos\mayor\AsteriscosPablo\bin\Debug\AsteriscosPablo.pdb
+C:\Users\alex_\source\repos\mayor\AsteriscosPablo\obj\Debug\AsteriscosPablo.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\mayor\AsteriscosPablo\obj\Debug\AsteriscosPablo.exe
+C:\Users\alex_\source\repos\mayor\AsteriscosPablo\obj\Debug\AsteriscosPablo.pdb

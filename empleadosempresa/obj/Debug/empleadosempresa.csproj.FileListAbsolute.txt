@@ -1,0 +1,6 @@
+C:\Users\alex_\source\repos\mayor\empleadosempresa\bin\Debug\empleadosempresa.exe.config
+C:\Users\alex_\source\repos\mayor\empleadosempresa\bin\Debug\empleadosempresa.exe
+C:\Users\alex_\source\repos\mayor\empleadosempresa\bin\Debug\empleadosempresa.pdb
+C:\Users\alex_\source\repos\mayor\empleadosempresa\obj\Debug\empleadosempresa.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\mayor\empleadosempresa\obj\Debug\empleadosempresa.exe
+C:\Users\alex_\source\repos\mayor\empleadosempresa\obj\Debug\empleadosempresa.pdb

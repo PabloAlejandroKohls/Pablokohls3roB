@@ -1,0 +1,6 @@
+C:\Users\alex_\source\repos\mayor\precioytotalfactura\bin\Debug\precioytotalfactura.exe.config
+C:\Users\alex_\source\repos\mayor\precioytotalfactura\bin\Debug\precioytotalfactura.exe
+C:\Users\alex_\source\repos\mayor\precioytotalfactura\bin\Debug\precioytotalfactura.pdb
+C:\Users\alex_\source\repos\mayor\precioytotalfactura\obj\Debug\precioytotalfactura.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\mayor\precioytotalfactura\obj\Debug\precioytotalfactura.exe
+C:\Users\alex_\source\repos\mayor\precioytotalfactura\obj\Debug\precioytotalfactura.pdb

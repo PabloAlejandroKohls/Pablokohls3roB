@@ -1,0 +1,6 @@
+C:\Users\alex_\source\repos\mayor\modificaciondeasteriscos4\bin\Debug\modificaciondeasteriscos4.exe.config
+C:\Users\alex_\source\repos\mayor\modificaciondeasteriscos4\bin\Debug\modificaciondeasteriscos4.exe
+C:\Users\alex_\source\repos\mayor\modificaciondeasteriscos4\bin\Debug\modificaciondeasteriscos4.pdb
+C:\Users\alex_\source\repos\mayor\modificaciondeasteriscos4\obj\Debug\modificaciondeasteriscos4.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\mayor\modificaciondeasteriscos4\obj\Debug\modificaciondeasteriscos4.exe
+C:\Users\alex_\source\repos\mayor\modificaciondeasteriscos4\obj\Debug\modificaciondeasteriscos4.pdb
